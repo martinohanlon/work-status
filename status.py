@@ -293,6 +293,7 @@ def update_slack_buttons(presence, status_text):
 # app
 app = App(title="status", width=480, height=800, bg=background_color)
 app.full_screen = True
+app.tk.config(cursor="none")
 app.text_color = foreground_color
 app.font = font
 
