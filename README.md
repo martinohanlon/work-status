@@ -23,6 +23,10 @@ Visit [api.slack.com/custom-integrations/legacy-tokens](https://api.slack.com/cu
 
 Visit [openweathermap.org/api](https://openweathermap.org/api) and sign up for an API key/token.
 
+### Rotate the screen
+
+The status board is designed to be viewed in portrait. Follow this [guide to rotate the touchscreen](https://www.stuffaboutcode.com/2017/05/raspberry-pi-touchscreen-portrait.html).
+
 ## Run
 
 ```
