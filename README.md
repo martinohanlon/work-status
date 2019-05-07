@@ -2,7 +2,7 @@
 
 A simple touchscreen status board for the Raspberry Pi touchscreen which shows the time and calendar and allows me to view and update my slack status
 
-![screenshot of status board](images/screenshot.png)
+![screenshot of status board](screenshot.png)
 
 ## Install
 
